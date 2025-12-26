@@ -30,7 +30,7 @@ Crediting Period: 2018-2024 (Scope 2)
  
 UNDP Human Development Indicator: 2 (India)
 _________
-roject location Indian Oil Corporation Limited, (Assam Oil
+Project location Indian Oil Corporation Limited, (Assam Oil
 Division), Digboi Refinery
 
 State Assam
