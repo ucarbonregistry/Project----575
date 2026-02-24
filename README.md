@@ -50,4 +50,78 @@ Area Extent 3790 sq. km
 
 No. of Villages/Towns Revenue village: 253, Panchayats: 86
 ____________
+ISSUANCE DATE: 24/02/2026
+
+QTY: 7680013
+
+MP-01: 01/04/2015-31/12/2024
+__________
+Serial Number: 0001-000001-298245-UWR-RoU-IN-575-01042015-31122015
+
+Vintage Year: 2015
+
+Quantity: 298245 
+_____________
+Serial Number: 0001-298246-693419-UWR-RoU-IN-575-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 395174
+_____________
+Serial Number
+0001-693420-1236361-UWR-RoU-IN-575-01012017-31122017
+Vintage Year
+2017
+Quantity in RoU Unsorted
+542942
+___________
+Serial Number: 0001-1236362-1899511-UWR-RoU-IN-575-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 663150
+____________
+Serial Number: 0001-1899512-2824718-UWR-RoU-IN-575-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 925207
+____________
+Serial Number: 0001-2824719-3824718-UWR-RoU-IN-575-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 1000000
+_____________
+Serial Number: 0001-3824719-4824718-UWR-RoU-IN-575-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 1000000
+___________
+Serial Number: 0001-4824719-5776898-UWR-RoU-IN-575-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 952180
+____________
+Serial Number: 0001-5776899-6687195-UWR-RoU-IN-575-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 910297
+______________
+Serial Number: 0001-6687196-7680013-UWR-RoU-IN-575-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 992818
+____________
+
+
+
+
+
+
+
 
