@@ -68,12 +68,11 @@ Vintage Year: 2016
 
 Quantity: 395174
 _____________
-Serial Number
-0001-693420-1236361-UWR-RoU-IN-575-01012017-31122017
-Vintage Year
-2017
-Quantity in RoU Unsorted
-542942
+Serial Number: 0001-693420-1236361-UWR-RoU-IN-575-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 542942
 ___________
 Serial Number: 0001-1236362-1899511-UWR-RoU-IN-575-01012018-31122018
 
