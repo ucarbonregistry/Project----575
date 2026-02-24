@@ -16,6 +16,8 @@ Water stewardship is central to the ethos of Indian Oil. Their water management 
 measuring water withdrawals and consumption while implementing initiatives to enhance water efficiency
 at their operations.
 
+ETP is fully operational since its inception in 1989.
+
 To address freshwater needs and support groundwater replenishment, they have established rainwater
 harvesting (RWH) systems at Digboi Refinery. They are effectively reusing and recycling ETP treated
 wastewater for industry operation.
