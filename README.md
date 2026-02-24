@@ -4,7 +4,6 @@ Rainwater Harvesting through Storage Cum Percolation (SCP) Pond &amp; Recycling 
 Indian Oil Corporation Ltd. (IOCL), Assam is the Project Proponent (PP) for this specific project activity. They
 are actively integrating sustainability into its core business strategy, focusing on environmental protection,
 social progress, and economic growth. They aim to minimize their ecological footprint and actively pursue
-©Universal Water Registry. No part of this document , may be reproduced in whole or in part in any manner without permission .4
 initiatives that benefit both stakeholders and the environment. Their approach is rooted in the United
 Nations Sustainable Development Goals (SDGs) and aims to create a more sustainable future for India and
 the world.
@@ -12,6 +11,7 @@ the world.
 The small town of Digboi in the remote northeastern corner of the country is the birthplace of the Oil
 Industry in India. Commissioned in 1901, the refinery is one of the oldest operating refineries in the world.
 Digboi refinery is situated in the midst of pristine biodiversity.
+
 Water stewardship is central to the ethos of Indian Oil. Their water management strategy focuses on
 measuring water withdrawals and consumption while implementing initiatives to enhance water efficiency
 at their operations.
