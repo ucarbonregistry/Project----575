@@ -20,6 +20,22 @@ To address freshwater needs and support groundwater replenishment, they have est
 harvesting (RWH) systems at Digboi Refinery. They are effectively reusing and recycling ETP treated
 wastewater for industry operation.
 
+Water quality monitoring stations were set up:- one near ETP, three at Digboi Nullah and one at oily sludge area.
+Liquid effluent quality from ETP outlet is monitored regularly on daily basis.
+
+1. 8(eight) parameters daily basis by QC (AOD)
+
+2. 21(twenty-one) parameters on monthly basis tested
+by SPCB approved outside agency.
+
+3. In addition to above four parameters, BOD, COD, TSS
+& pH being monitored through online analyzers
+connected with CPCB Server,
+
+4. Sample from Digboi River and Dihing River is being
+collected and analyzed by QC (AOD) on monthly
+basis. 
+
 UWR RoU Scope: RoU Scope 2, Scope 5
 
 Monitoring Period: 01/04/2018-31/03/2025
