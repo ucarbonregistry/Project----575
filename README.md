@@ -16,6 +16,28 @@ Water stewardship is central to the ethos of Indian Oil. Their water management 
 measuring water withdrawals and consumption while implementing initiatives to enhance water efficiency
 at their operations.
 
+The constructed SCP is receiving water from surrounding nine
+different interconnected catchment area which includes Dam-1,2,3
+(Capacity 24 Lacs KL) & Dam C (Capacity 15 Lac KL). Google
+coordinates for these natural catchments are verified for, Dam -1:
+27°23'26.5"N 95°36'34.3"E, Dam-2: 27°23'15.3"N 95°36'34.1"E,
+Dam-3: 27°23'06.2"N 95°36'39.5"E and Dam – C, 27°22'55.5"N
+95°37'21.1"E.
+
+Liquid effluent streams generated from various sources within
+refinery complex are routed to the existing effluent treatment plant
+(ETP) of design capacity API: 375 m3/hr,TPI: 273 M3/hr, DAF: 200
+m3/hr & operating capacity is 84 – 110 m3/hr for treating the waste
+water from all the units/sources.
+
+Annual rainwater harvesting has been calculated for SCP and actual
+water harvested through SCP is considered based on flow meter
+readings. Recycled water quantity from ETP outlet flow meter
+readings have been considered in PCNMR for RoUs estimation.
+Uncertainty factors (2%) for Surface outflow-based meter readings
+estimation have been taken into account for eligible RoUs
+calculation.
+
 ETP is fully operational since its inception in 1989.
 
 To address freshwater needs and support groundwater replenishment, they have established rainwater
